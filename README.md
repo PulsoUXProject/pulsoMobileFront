@@ -2,7 +2,7 @@
 
 App Android nativa construida en **Kotlin + Jetpack Compose** a partir del diseño de Figma "09 · Mockups Mobile" (Entrega 3), con el objetivo de poder generar un APK instalable.
 
-**[⬇ Descargar APK release firmado](app/build/outputs/apk/release/app-release.apk)**
+**[⬇ Descargar APK release firmado](https://github.com/PulsoUXProject/pulsoMobileFront/releases/latest)** (ver [Releases](https://github.com/PulsoUXProject/pulsoMobileFront/releases))
 
 Es una interfaz de alta fidelidad visual: los componentes con algún nivel de interacción (filtros, navegación entre pantallas) están activos y responden en pantalla, pero **no implementa lógica de negocio real** ni persiste datos — no hay backend ni base de datos detrás.
 
